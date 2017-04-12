@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component LANGUAGE_LEVEL="JDK_1_5" inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/target/test-classes"/>
+	<contentEntry url="file://$MODULE_DIR$">
+		<testFolder url="file://$MODULE_DIR$/src/test/java"/>
+		<excludeFolder url="file://$MODULE_DIR$/target"/>
+	</contentEntry>
+	<lib name="Tomcat 7.0.53" scope="PROVIDED"/>
+	<levels>
+		<level name="Tomcat 7.0.53" value="application_server_libraries"/>
+		<level name="Maven: com.sun.jersey:jersey-bundle:1.18.3" value="project"/>
+		<level name="Maven: javax.ws.rs:jsr311-api:1.1.1" value="project"/>
+		<level name="Maven: com.sun.jersey:jersey-json:1.18.3" value="project"/>
+		<level name="Maven: org.codehaus.jettison:jettison:1.1" value="project"/>
+		<level name="Maven: com.sun.xml.bind:jaxb-impl:2.2.3-1" value="project"/>
+		<level name="Maven: javax.xml.bind:jaxb-api:2.2.2" value="project"/>
+		<level name="Maven: javax.xml.stream:stax-api:1.0-2" value="project"/>
+		<level name="Maven: javax.activation:activation:1.1" value="project"/>
+		<level name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.2" value="project"/>
+		<level name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.2" value="project"/>
+		<level name="Maven: org.codehaus.jackson:jackson-jaxrs:1.9.2" value="project"/>
+		<level name="Maven: org.codehaus.jackson:jackson-xc:1.9.2" value="project"/>
+		<level name="Maven: com.sun.jersey:jersey-core:1.18.3" value="project"/>
+		<level name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.7" value="project"/>
+		<level name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.0" value="project"/>
+		<level name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.7" value="project"/>
+		<level name="Maven: mysql:mysql-connector-java:5.1.6" value="project"/>
+	</levels>
+</component>

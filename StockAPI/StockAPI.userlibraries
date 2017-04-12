@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.8.0">
+    <archive path="/Users/teju/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-core:2.8.7">
+    <archive path="/Users/teju/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.8.7/jackson-core-2.8.7.jar" />
+  </library>
+  <library name="Maven: com.fasterxml.jackson.core:jackson-databind:2.8.7">
+    <archive path="/Users/teju/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.8.7/jackson-databind-2.8.7.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey:jersey-bundle:1.18.3">
+    <archive path="/Users/teju/.m2/repository/com/sun/jersey/jersey-bundle/1.18.3/jersey-bundle-1.18.3.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey:jersey-core:1.18.3">
+    <archive path="/Users/teju/.m2/repository/com/sun/jersey/jersey-core/1.18.3/jersey-core-1.18.3.jar" />
+  </library>
+  <library name="Maven: com.sun.jersey:jersey-json:1.18.3">
+    <archive path="/Users/teju/.m2/repository/com/sun/jersey/jersey-json/1.18.3/jersey-json-1.18.3.jar" />
+  </library>
+  <library name="Maven: com.sun.xml.bind:jaxb-impl:2.2.3-1">
+    <archive path="/Users/teju/.m2/repository/com/sun/xml/bind/jaxb-impl/2.2.3-1/jaxb-impl-2.2.3-1.jar" />
+  </library>
+  <library name="Maven: javax.activation:activation:1.1">
+    <archive path="/Users/teju/.m2/repository/javax/activation/activation/1.1/activation-1.1.jar" />
+  </library>
+  <library name="Maven: javax.ws.rs:jsr311-api:1.1.1">
+    <archive path="/Users/teju/.m2/repository/javax/ws/rs/jsr311-api/1.1.1/jsr311-api-1.1.1.jar" />
+  </library>
+  <library name="Maven: javax.xml.bind:jaxb-api:2.2.2">
+    <archive path="/Users/teju/.m2/repository/javax/xml/bind/jaxb-api/2.2.2/jaxb-api-2.2.2.jar" />
+  </library>
+  <library name="Maven: javax.xml.stream:stax-api:1.0-2">
+    <archive path="/Users/teju/.m2/repository/javax/xml/stream/stax-api/1.0-2/stax-api-1.0-2.jar" />
+  </library>
+  <library name="Maven: mysql:mysql-connector-java:5.1.6">
+    <archive path="/Users/teju/.m2/repository/mysql/mysql-connector-java/5.1.6/mysql-connector-java-5.1.6.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-core-asl:1.9.2">
+    <archive path="/Users/teju/.m2/repository/org/codehaus/jackson/jackson-core-asl/1.9.2/jackson-core-asl-1.9.2.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-jaxrs:1.9.2">
+    <archive path="/Users/teju/.m2/repository/org/codehaus/jackson/jackson-jaxrs/1.9.2/jackson-jaxrs-1.9.2.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-mapper-asl:1.9.2">
+    <archive path="/Users/teju/.m2/repository/org/codehaus/jackson/jackson-mapper-asl/1.9.2/jackson-mapper-asl-1.9.2.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jackson:jackson-xc:1.9.2">
+    <archive path="/Users/teju/.m2/repository/org/codehaus/jackson/jackson-xc/1.9.2/jackson-xc-1.9.2.jar" />
+  </library>
+  <library name="Maven: org.codehaus.jettison:jettison:1.1">
+    <archive path="/Users/teju/.m2/repository/org/codehaus/jettison/jettison/1.1/jettison-1.1.jar" />
+  </library>
+</eclipse-userlibraries>
+
